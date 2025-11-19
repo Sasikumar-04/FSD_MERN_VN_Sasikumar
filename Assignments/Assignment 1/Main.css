@@ -1,0 +1,37 @@
+ .main{
+            display: flex;
+            justify-content: space-around;
+        }
+        .s{
+            text-align: center;
+            padding:20px;
+            color:white;
+        }
+      
+        img{
+            border-radius:100%;
+            width:125px;
+            height:125px;
+        }
+        .v{
+            
+            background-color:darkgray;
+            border: 1px solid darkgray;
+            border-radius: 15%;
+            width:300px;
+            
+
+        }
+        
+        .but{
+            border-radius: 15%;
+            background-color: grey;
+            color: white;
+            padding:10px;
+            border:none;
+        }
+        .head{
+            background-color: darkgray;
+            color:white;
+            padding: 10px;
+        }
